@@ -15,3 +15,8 @@ header {
   90% { transform: rotate(10deg); }
   100% { transform: rotate(10deg); }
 }
+
+#config-bar {
+  background: #000;
+  width: 100px;
+}
