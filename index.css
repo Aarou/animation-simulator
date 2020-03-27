@@ -33,3 +33,9 @@ header {
   display: flex;
   flex-direction: row;
 }
+
+#middle-space > div > img {
+  animation-name: animation-one;
+  animation-duration: 0.5s;
+  animation-iteration-count: infinite;
+}
