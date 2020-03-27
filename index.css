@@ -22,4 +22,5 @@ header {
   display: flex;
   flex-direction: row;
   color: #fff;
+  height: 125px;
 }
