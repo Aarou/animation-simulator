@@ -24,3 +24,7 @@ header {
   color: #fff;
   text-align: center;
 }
+
+#config-bar > .space {
+  width: 20px;
+}
