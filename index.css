@@ -28,3 +28,8 @@ header {
 #config-bar > .space {
   width: 10px;
 }
+
+#middle-space {
+  display: flex;
+  flex-direction: row;
+}
