@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("five").addEventListener("click", () => {
     document.getElementById("image").style.animationDuration = "2s"
   })
-  document.getElementById("six").addEventListener("click" () => {
+  document.getElementById("six").addEventListener("click", () => {
     document.getElementById("image").style.animationDuration = "3s"
   })
 })
