@@ -26,5 +26,5 @@ function animate() {
  })
  buttonSix.addEventListener("click", () => {
   animation = "animation-duration: 3s;"
- }) 
+ })  
 }
