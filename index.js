@@ -1,5 +1,4 @@
-function animate() {
- document.addEventListener("DOMContentLoaded", () => {
+document.addEventListener("DOMContentLoaded", () => {
   const animation = "animation-name: animation-one;"
   const duration = "animation-duration: 0.5s;"
  
@@ -33,7 +32,5 @@ function animate() {
  
   image.style = animation + duration + "animation-iteration-count: infinite"
  
- })
-}
+})
 
-animate()
