@@ -11,22 +11,22 @@ function animate() {
   const buttonSix = document.getElementById("six")
  
   buttonOne.addEventListener("click", () => {
-   animation = "animation-name: animation-one; "
+   animation == "animation-name: animation-one; "
   })
   buttonTwo.addEventListener("click", () => {
-   animation = "animation-name: animation-two; "
+   animation == "animation-name: animation-two; "
   })
   buttonThree.addEventListener("click", () => {
-   animation = "animation-duration: 0.5s; "
+   animation == "animation-duration: 0.5s; "
   })
   buttonFour.addEventListener("click", () => {
-   animation = "animation-duration: 1s; "
+   animation == "animation-duration: 1s; "
   })
   buttonFive.addEventListener("click", () => {
-   animation = "animation-duration: 2s; "
+   animation == "animation-duration: 2s; "
   })
   buttonSix.addEventListener("click", () => {
-   animation = "animation-duration: 3s; "
+   animation == "animation-duration: 3s; "
   })  
  
   const image = document.getElementById("image")
