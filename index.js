@@ -1,3 +1,4 @@
- function animationOne(button){
- 
- }
+function animate() {
+ const animation = ""
+ const duration = ""
+}
