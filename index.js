@@ -17,16 +17,16 @@ function animate() {
    animation == "animation-name: animation-two; "
   })
   buttonThree.addEventListener("click", () => {
-   animation == "animation-duration: 0.5s; "
+   duration == "animation-duration: 0.5s; "
   })
   buttonFour.addEventListener("click", () => {
-   animation == "animation-duration: 1s; "
+   duration == "animation-duration: 1s; "
   })
   buttonFive.addEventListener("click", () => {
-   animation == "animation-duration: 2s; "
+   duration == "animation-duration: 2s; "
   })
   buttonSix.addEventListener("click", () => {
-   animation == "animation-duration: 3s; "
+   duration == "animation-duration: 3s; "
   })  
  
   const image = document.getElementById("image")
